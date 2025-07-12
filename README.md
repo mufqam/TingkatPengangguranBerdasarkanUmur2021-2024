@@ -114,5 +114,7 @@ Pelatihan Model (Fitting): Algoritma K-Means di-fit atau dilatih pada data yang 
 Penugasan Cluster (Predicting): Setelah model dilatih, ia digunakan untuk memprediksi label cluster (cluster_labels) untuk setiap titik data (kelompok umur). Setiap kelompok umur ditugaskan ke salah satu dari k cluster yang ditemukan.
 Output dan Interpretasi: Label cluster yang dihasilkan ditambahkan kembali ke DataFrame asli. Hasil clustering ini kemudian dianalisis (misalnya, menghitung rata-rata fitur per cluster di cell Mu3m8CZ8OQdk) dan divisualisasikan (di cell 06Al43mjNT75 dan Mu3m8CZ8OQdk) untuk menginterpretasikan karakteristik setiap cluster dan mendapatkan insight mengenai perbedaan pola pengangguran antar kelompok umur.
 Dengan demikian, K-Means Clustering di sini berfungsi sebagai alat AI untuk secara otomatis mengidentifikasi struktur atau pengelompokan tersembunyi dalam data pengangguran, yang sulit dilakukan hanya dengan melihat data mentah atau statistik deskriptif sederhana. Ini membantu dalam mengkategorikan kelompok umur ke dalam segmen-segmen yang memiliki pola pengangguran serupa, yang menjadi dasar untuk analisis dan rekomendasi lebih lanjut.
+
 Dataset link: [https://www.bps.go.id/id/statistics-table/2/MjQwMSMy/pengangguran-menurut-golongan-umur.html](url)
+
 Presentation link: [https://www.canva.com/design/DAGs9H_swPA/8sgXuzZRUokw2sqQX9fohw/edit?utm_content=DAGs9H_swPA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](url)
